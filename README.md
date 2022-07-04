@@ -1,4 +1,4 @@
-![](Course-Logo-.png)
+![](ml-banner.jpeg)
 
 # Machine Learning Specialization on Coursera (`offered by deeplearning.ai`)
 
