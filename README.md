@@ -80,7 +80,7 @@ By the end of this Specialization, you will be ready to:
 
 ### Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning<Starting on July 20th>
 --- 
-I will update the repository when i finish the course for course 3
+I will update the repository when i finish course 3
 
 
 ### Disclaimer 
