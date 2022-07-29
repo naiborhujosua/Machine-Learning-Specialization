@@ -83,8 +83,10 @@ By the end of this Specialization, you will be ready to:
 I will update the repository when i finish course 3
 
 
-### Disclaimer 
+## 📝 Disclaimer 
 I made this repository as **a reference**. Please do not copy paste the solution as is. You can find the solution if you read the instruction carefully. 
 
  
+## 📝 License
+The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
     
