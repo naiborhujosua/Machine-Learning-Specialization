@@ -79,8 +79,27 @@ By the end of this Specialization, you will be ready to:
 [![Notebook](https://img.shields.io/badge/-Notebook-blue)](https://nbviewer.org/github/naiborhujosua/Machine-Learning-Specialization/blob/master/Advanced%20ML/week4/lab/C2_W4_Decision_Tree_with_Markdown.ipynb)
 
 ### Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning<Starting on July 20th>
---- 
-I will update the repository when i finish course 3
+---
+
+#### Week 1 : Practice Lab: KMeans
+
+[![Notebook](https://img.shields.io/badge/-Notebook-blue)](https://nbviewer.org/github/naiborhujosua/Machine-Learning-Specialization/blob/master/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W1_KMeans_Assignment.ipynb)
+
+### Week 1 : Practice Lab: Anomaly Detection
+
+[![Notebook](https://img.shields.io/badge/-Notebook-blue)](https://nbviewer.org/github/naiborhujosua/Machine-Learning-Specialization/blob/master/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W1_Anomaly_Detection.ipynb)
+
+### Week 2 : Practice Lab: Collaborative Filtering Recommender Systems
+
+[![Notebook](https://img.shields.io/badge/-Notebook-blue)](https://nbviewer.org/github/naiborhujosua/Machine-Learning-Specialization/blob/master/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W2_Collaborative_RecSys_Assignment.ipynb)
+
+### Week 2 : Practice lab:Deep Learning for Content-Based Filtering
+
+[![Notebook](https://img.shields.io/badge/-Notebook-blue)](https://nbviewer.org/github/naiborhujosua/Machine-Learning-Specialization/blob/master/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W2_RecSysNN_Assignment.ipynb)
+
+### Week 3 : Practice Lab: Reinforcement Learning
+
+[![Notebook](https://img.shields.io/badge/-Notebook-blue)](https://nbviewer.org/github/naiborhujosua/Machine-Learning-Specialization/blob/master/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W3_A1_Assignment.ipynb)
 
 
 ## 📝 Disclaimer 
