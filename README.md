@@ -78,10 +78,10 @@ By the end of this Specialization, you will be ready to:
 
 [![Notebook](https://img.shields.io/badge/-Notebook-blue)](https://nbviewer.org/github/naiborhujosua/Machine-Learning-Specialization/blob/master/Advanced%20ML/week4/lab/C2_W4_Decision_Tree_with_Markdown.ipynb)
 
-### Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning<Starting on July 20th>
+### Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
 ---
 
-#### Week 1 : Practice Lab: KMeans
+### Week 1 : Practice Lab: KMeans
 
 [![Notebook](https://img.shields.io/badge/-Notebook-blue)](https://nbviewer.org/github/naiborhujosua/Machine-Learning-Specialization/blob/master/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/C3_W1_KMeans_Assignment.ipynb)
 
