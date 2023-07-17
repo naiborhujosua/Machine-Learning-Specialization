@@ -1,3 +1,19 @@
+<h1 align="center">Collection of my writing and inspiration in ML and Software Engineering in Python</h1>
+<div align="center">
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+<br>
+
+<i>A curated list of my writing and inspiration in Machine Learning and Software Engineering</i>
+
+<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+
+<i>Loved the project? Please consider [donating](paypal.me/naiborhujosua) to help it improve!</i>
+
+</div>
+
+
 ![](ml-banner.jpeg)
 
 # Machine Learning Specialization on Coursera (`offered by deeplearning.ai`)
